@@ -41,4 +41,5 @@ http-server -g
 
 恭喜！你已经成功将 C 代码编译成 JavaScript 并且在浏览器中执行了！
 
-![HelloWorld](https://raw.githubusercontent.com/NuoHui/typora-imgs/main/202212101033955.png)
+
+![HelloWorld.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6e72b52a1450410b895bd0ee91fd82e4~tplv-k3u1fbpfcp-watermark.image?)
