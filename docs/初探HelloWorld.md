@@ -40,3 +40,5 @@ http-server -g
 如果一切顺利，你应该可以在页面上的 Emscripten 控制台和 浏览器控制台 中看到 "Hello World" 的输出。
 
 恭喜！你已经成功将 C 代码编译成 JavaScript 并且在浏览器中执行了！
+
+![HelloWorld]([https://raw.githubusercontent.com/NuoHui/typora-imgs/main/202212101033955.png](https://github.com/NuoHui/webassembly-tutorial/blob/main/images/HelloWorld.png))
